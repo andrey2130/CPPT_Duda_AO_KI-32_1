@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ki32.duda.Lab2","l":"Address"},{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"ki32.duda.Lab2","l":"House"},{"p":"ki32.duda.Lab2","l":"Human"},{"p":"ki32.duda.Lab2","l":"LoggerInFile"},{"p":"ki32.duda.Lab2","l":"Main"},{"p":"ki32.duda.Lab2","l":"Room"}];updateSearchResults();
