@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"ki32.duda.lab4","l":"CalculateTheEquation"},{"p":"ki32.duda.lab4","l":"CalculateTheEquationInterface","k":"10"},{"p":"ki32.duda.lab4","l":"EquationsApp"}];updateSearchResults();
