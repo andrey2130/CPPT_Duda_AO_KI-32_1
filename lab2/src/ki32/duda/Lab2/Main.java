@@ -10,7 +10,7 @@ public class Main {
                 new Human("Андрій", "Дуда")
         );
 
-        house.addRoom(new Room("Вітальня", 45.0));
+        house.addRoom(new Room("Вітальня", 50.0));
         house.addRoom(new Room("Кухня", 12.0));
         house.addRoom(new Room("Спальня", 12.0));
 
