@@ -29,7 +29,7 @@ public class EquationsApp {
         try (PrintWriter writer = new PrintWriter(new FileWriter(outputFile))) {
             System.out.println("Обчислення y = tan(x) / cot(x)");
             writer.println("Результати обчислення y = tan(x) / cot(x)");
-            writer.println("==========================================");
+            
             
             double[] testValues = {100, 90, -1111, Math.PI / 4, Math.PI / 6};
             
