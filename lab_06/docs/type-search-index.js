@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"duda.ki32.lab6","l":"Lab6Driver"}];updateSearchResults();
